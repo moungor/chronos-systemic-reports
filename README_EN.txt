@@ -15,3 +15,5 @@ Project: https://chronossystemic.com/
 Written proposals and targeted partnerships: contact@chronossystemic.com
 
 Proprietary project in preproduction. Original report prepared with AI assistance. No general reuse licence is granted by default; the distribution platform's applicable rights remain unchanged. No proprietary code or third-party corpus is distributed.
+
+Layout revised with Claude on 20 October 2026: 5 pages per edition; trial content and results unchanged.

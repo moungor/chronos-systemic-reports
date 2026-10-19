@@ -15,9 +15,11 @@ Ce dépôt est destiné aux rapports originaux et aux démonstrations documenté
 
 ### Rapport disponible — 20 octobre 2026
 
-**[Une pièce citée doit pouvoir être retrouvée — rapport français, 3 pages](Chronos%20Systemic%20-%20Controle%20documentaire%20-%20Colis%20fictif%20-%20FR.pdf)**
+**[Une pièce citée doit pouvoir être retrouvée — rapport français, 5 pages](Chronos%20Systemic%20-%20Controle%20documentaire%20-%20Colis%20fictif%20-%20FR.pdf)**
 
 Une réponse réelle du modèle sur un dossier de colis entièrement fictif, puis trois modifications documentaires volontaires soumises aux contrôles natifs. Le rapport sépare les observations du logiciel de l’analyse du modèle et de ce qui reste ouvert.
+
+**Présentation révisée avec Claude : cinq pages par édition. Le contenu de l’essai et ses résultats sont inchangés ; les versions précédentes restent dans l’historique.**
 
 - [Prompt et réponse brute conservée](Cas%20fictif%20-%20prompt%20et%20reponse.txt)
 - [Périmètre et notice de lecture](LIRE_LE_RAPPORT.txt)
@@ -44,9 +46,11 @@ Fondé par Rhode Brunel Moungondo. *Chronos Systemic* — projet propriétaire e
 
 ### Available report — 20 October 2026
 
-**[A cited document should be retrievable — English edition, 3 pages](Chronos%20Systemic%20-%20Document%20checks%20-%20Fictional%20parcel%20case%20-%20EN.pdf)**
+**[A cited document must be retrievable — English edition, 5 pages](Chronos%20Systemic%20-%20Document%20checks%20-%20Fictional%20parcel%20case%20-%20EN.pdf)**
 
 A real model response to an entirely fictional parcel case, followed by three deliberate documentary changes submitted to native checks. This is an English editorial translation of the existing French development report, with the original French dialogue retained in the appendix. No new English test response, execution or benchmark score was produced for this edition.
+
+**Layout revised with Claude: five pages per edition. The trial content and results are unchanged; previous versions remain in the repository history.**
 
 - [English reading guide](README_EN.txt)
 - [Original French prompt and unedited response](Cas%20fictif%20-%20prompt%20et%20reponse.txt)
