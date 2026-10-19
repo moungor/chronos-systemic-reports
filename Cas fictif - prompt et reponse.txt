@@ -1,0 +1,52 @@
+CHRONOS SYSTEMIC - CAS FICTIF
+Projet propriétaire en préproduction
+
+PROMPT EXACT
+
+J'ai un colis marqué « livré », mais je ne le trouve pas. Est-ce que ces éléments suffisent à dire que je l'ai bien reçu ? Aide-moi à comprendre ce que je peux répondre au vendeur et quoi vérifier ensuite.
+
+CAS FICTIF. Voici les trois textes du dossier. Aucune photo n'est jointe ; les mentions de photos sont seulement des descriptions écrites.
+
+Pièce A — Commande — doc-commande-v1
+Commande COLIS-012, enregistrée le 18 octobre 2026.
+Destinataire : Client A.
+Adresse de livraison : 12 rue des Lilas.
+
+Pièce B — Suivi du transporteur — doc-suivi-v1
+Commande COLIS-012 — 19 octobre 2026 à 14 h 32.
+Statut : livré au 12 rue des Lilas.
+Description textuelle associée à la photo de livraison : paquet devant une porte verte.
+Aucune image n'est jointe à ce dossier fictif.
+
+Pièce C — Message du client — doc-client-v1
+Commande COLIS-012 — message envoyé le 19 octobre 2026 à 19 h.
+Ma porte au 12 rue des Lilas est bleue. Je n'ai trouvé aucun colis à mon retour.
+Ce message est un texte fictif ; il ne constitue pas une photo de la porte.
+
+
+REPONSE BRUTE EXACTE
+
+Non, ces éléments ne suffisent pas à affirmer que vous avez bien reçu le colis. Ils montrent que le transporteur a enregistré une livraison à votre adresse, mais ils ne permettent pas de confirmer que le paquet vous est effectivement parvenu.
+
+Le point à éclaircir est la différence entre les deux descriptions : le suivi mentionne un paquet devant une porte verte ; vous indiquez que votre porte est bleue. Cela justifie de demander une vérification du lieu de dépôt. Cette différence peut faire penser à une autre porte, sans suffire à établir une erreur de livraison. Aucune photo n’est jointe : on ne peut donc ni examiner la porte, ni identifier le paquet, ni vérifier ce qui apparaît autour.
+
+Les trois pièces permettent de distinguer :
+- la commande, qui indique le destinataire et l’adresse prévus ;
+- le suivi, qui affirme une livraison le 19 octobre à 14 h 32 et décrit un dépôt ;
+- votre message, qui signale que vous n’avez trouvé aucun colis et relève une différence de couleur de porte.
+
+À ce stade, la réception effective reste donc non confirmée, et la cause de l’absence du colis reste à déterminer.
+
+Vous pouvez écrire au vendeur :
+
+« Bonjour, je vous contacte au sujet de la commande COLIS-012. Le suivi indique une livraison le 19 octobre 2026 à 14 h 32 au 12 rue des Lilas, mais je n’ai trouvé aucun colis à mon retour. La description associée à la livraison mentionne un paquet devant une porte verte, alors que ma porte est bleue. Je ne peux donc pas confirmer avoir reçu cette commande. Pouvez-vous faire vérifier le lieu exact du dépôt auprès du transporteur et me transmettre les éléments disponibles, notamment la photo de livraison originale si elle existe et toute indication sur une remise à une personne ou dans un autre endroit ? Merci de me préciser la suite donnée à ce signalement. »
+
+Pour avancer, voici les vérifications les plus utiles :
+
+1. Vérifiez que le numéro de commande et l’adresse complète du suivi correspondent bien à votre commande, notamment s’il existe un bâtiment, une entrée ou un numéro d’appartement.
+2. Regardez les endroits de dépôt possibles et accessibles : boîte aux lettres, entrée commune, emplacement habituel ou autre entrée. Demandez aux personnes du foyer et, si cela s’y prête, à un voisin ou au gardien si quelqu’un a pris le colis.
+3. Demandez la photo originale, si elle est disponible. Sa description seule ne permet pas de juger de ce qu’elle montre. Une image pourrait apporter des repères, sans prouver à elle seule que vous avez récupéré le paquet.
+4. Demandez au vendeur de faire préciser par le transporteur le point de dépôt et les éventuels éléments de remise : nom du réceptionnaire, signature ou localisation du dépôt, s’ils existent.
+5. Conservez le suivi, votre signalement et les réponses reçues. Vous pouvez aussi joindre une photo actuelle de votre porte en précisant ce qu’elle montre ; elle aiderait à comparer les lieux sans établir à elle seule ce qui s’est passé au moment de la livraison.
+
+Votre réponse peut rester simple et factuelle : le suivi annonce une livraison, vous n’avez pas retrouvé le colis, et une différence dans la description du lieu nécessite une vérification.
