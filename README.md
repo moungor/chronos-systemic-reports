@@ -13,7 +13,16 @@ Propositions écrites et partenariats ciblés : **contact@chronossystemic.com**.
 
 Ce dépôt est destiné aux rapports originaux et aux démonstrations documentées du projet. Pour chaque résultat publié : le système effectivement utilisé, le protocole, les observations et leurs limites doivent être identifiables.
 
-À l’ouverture de ce dépôt, aucun score de benchmark ni rapport d’évaluation n’y est encore publié. Les futurs rapports seront ajoutés avec leur périmètre et leur date. Une démonstration sur un cas ne vaut pas une garantie générale contre les hallucinations ; une qualification du logiciel ne constitue pas, à elle seule, une mesure de performance d’un modèle.
+### Rapport disponible — 20 octobre 2026
+
+**[Une pièce citée doit pouvoir être retrouvée — rapport français, 3 pages](Chronos%20Systemic%20-%20Controle%20documentaire%20-%20Colis%20fictif%20-%20FR.pdf)**
+
+Une réponse réelle du modèle sur un dossier de colis entièrement fictif, puis trois modifications documentaires volontaires soumises aux contrôles natifs. Le rapport sépare les observations du logiciel de l’analyse du modèle et de ce qui reste ouvert.
+
+- [Prompt et réponse brute conservée](Cas%20fictif%20-%20prompt%20et%20reponse.txt)
+- [Périmètre et notice de lecture](LIRE_LE_RAPPORT.txt)
+
+Une démonstration sur un cas ne vaut pas une garantie générale contre les hallucinations ; une qualification du logiciel ne constitue pas, à elle seule, une mesure de performance d’un modèle. Aucun score de benchmark officiel n’est revendiqué.
 
 ## Périmètre public
 
