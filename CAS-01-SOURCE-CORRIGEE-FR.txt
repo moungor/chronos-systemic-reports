@@ -1,0 +1,62 @@
+Chronos Systemic - Une source change après la décision
+22 octobre 2026
+
+EXERCICE DOCUMENTAIRE ENTIÈREMENT FICTIF
+Trois pièces pour examiner un changement de date limite. Aucun test logiciel, score ou résultat de performance.
+
+EXEMPLE ENTIÈREMENT FICTIF - SUPPORT PÉDAGOGIQUE
+Aucune entreprise, procédure administrative ou opportunité réelle n'est représentée.
+
+Notice de dépôt - Dossier pédagogique CS-01
+Version : V1
+Publication fictive : 19 octobre 2026 à 09 h, Europe/Zurich
+
+La date limite de dépôt du dossier CS-01 est fixée au 31 octobre 2026 à 17 h, Europe/Zurich.
+Dans cet exercice, cette notice est la source qui fait foi pour la date limite.
+
+Cette pièce illustre une source documentaire. Elle n'est ni un résultat produit ni une capture du logiciel Chronos Systemic.
+
+---
+
+EXEMPLE ENTIÈREMENT FICTIF - SUPPORT PÉDAGOGIQUE
+
+Note de décision - Dossier pédagogique CS-01
+Date fictive : lundi 19 octobre 2026 à 14 h, Europe/Zurich
+Source consultée : NOTICE_V1.txt, version V1 publiée le 19 octobre à 09 h
+Date limite retenue : 31 octobre 2026 à 17 h
+Action prévue : déposer le dossier le 30 octobre 2026 à 10 h
+État : dossier non encore déposé
+
+Le planning précède la limite annoncée dans V1. Les autres conditions du dossier et sa faisabilité ne sont pas évaluées dans cet exercice.
+Cette note est conservée telle quelle lorsque la correction du mercredi est ajoutée.
+
+---
+
+EXEMPLE ENTIÈREMENT FICTIF - SUPPORT PÉDAGOGIQUE
+Aucune entreprise, procédure administrative ou opportunité réelle n'est représentée.
+
+Notice de dépôt - Dossier pédagogique CS-01
+Version : V2 - correction de la notice V1
+Publication fictive : mercredi 21 octobre 2026 à 09 h, Europe/Zurich
+
+La date limite de dépôt du dossier CS-01 est corrigée : 23 octobre 2026 à 17 h, Europe/Zurich.
+Cette correction remplace la date du 31 octobre annoncée dans V1 et s'applique à tous les dossiers non encore déposés.
+Dans cet exercice, cette notice est la source qui fait foi pour la nouvelle date limite.
+
+Cette pièce illustre une source documentaire. Elle n'est ni un résultat produit ni une capture du logiciel Chronos Systemic.
+
+---
+
+LECTURE
+Le dépôt prévu le 30 octobre précède la limite V1 du 31 octobre, mais dépasse la limite corrigée V2 du 23 octobre. La correction est publiée le 21 et s’applique aux dossiers non encore déposés, dont CS-01. Le planning doit donc être réexaminé.
+
+Conserver la version consultée et la note initiale permet de comprendre l’ancienne décision. La personne responsable doit examiner si le dépôt peut effectivement être avancé. Cette faisabilité reste ouverte.
+
+Ce cas est une illustration éditoriale préparée avec assistance IA, sans exécution de Chronos Systemic. Chronos Systemic est un logiciel propriétaire en préproduction ; l’utilité recherchée est de garder sources, versions, contradictions et vérifications ouvertes visibles avant d’utiliser une réponse.
+
+Textes originaux présentés pour consultation ; pas de licence générale de réutilisation accordée par ce document. Les conditions du dépôt restent applicables.
+
+https://chronossystemic.com/
+contact@chronossystemic.com
+
+#IA #GestionDeProjet #Traçabilité
